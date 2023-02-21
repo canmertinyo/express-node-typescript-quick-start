@@ -1,9 +1,9 @@
 {
-  "name": "typescript-starter-template",
-  "version": "1.0.0",
+  "name": "typescript-boilerplate",
+  "version": "1.0.1",
   "description": "",
-  "author": "",
-  "license": "",
+  "author": "CAN CEVIK & CANMERTINYO",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "keywords": [],
   "main": "dist/src/index.js",
   "scripts": {
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canccevik/typescript-starter-template.git"
+    "url": "git+https://github.com/canmertinyo/typescript-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/canccevik/typescript-starter-template/issues"
+    "url": "https://github.com/canmertinyo/typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/canccevik/typescript-starter-template#readme"
+  "homepage": "https://github.com/canmertinyo/typescript-boilerplate#readme"
 }
