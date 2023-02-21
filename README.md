@@ -1,1 +1,1 @@
-Typescript quick start 
+ready to use with eslint 
