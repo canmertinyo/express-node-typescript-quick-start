@@ -14,6 +14,11 @@
 
 
 
+## Installation
+
+```sh
+npm install 
+```
 
 ### Dependencies
 
