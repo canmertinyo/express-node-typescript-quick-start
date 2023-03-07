@@ -2,7 +2,18 @@
 <img src="https://github.com/canmertinyo/typescript-boilerplate/blob/main/documents/banner.png?raw=true" alt="typescript boilerplate" width="1000" height="350"/>
 </p>
 
-<p align="center">✔ typescript boiler plate </p>
+<p align="center">✔ you can make a quick start with this template  </p>
+<p align="center">✔ Eslint </p>
+<p align="center">✔ Express </p>
+<p align="center">✔ Typescript </p>
+<p align="center">✔ Node </p>
+<p align="center">✔ Dotenv </p>
+<p align="center">✔ Prettier </p>
+<p align="center">✔ Module Alias </p>
+
+
+
+
 
 ### Dependencies
 
