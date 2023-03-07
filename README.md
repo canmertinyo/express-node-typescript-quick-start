@@ -24,4 +24,21 @@
     "dotenv": "16.0.3"
 ```
 
+### Better syntax for import files 
+With this template you can import your files with a much shorter way : 
+
+With this template :
+```typescript
+import {file] from '@/resources/blabla/'
+
+```
+
+Bad version : 
+
+```typescript
+import {file} from '../../../../something/resources/blabla/'
+
+```
+
+
 ### Updated at 3/7/2023
